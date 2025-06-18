@@ -1,0 +1,40 @@
+/*
+*
+* Base2Tone Mall
+* Maintainer: kat
+*
+*/
+@define-color background    #1e1e1f
+@define-color surface0      #2b2b2c
+@define-color surface1      #515053
+@define-color overlay1      #5e5c60
+@define-color gray3         #6a686e
+
+@define-color foreground-m  #97959d
+@define-color foreground    #f4f0ff
+
+@define-color blued         #479eeb
+@define-color blue2         #75aabf
+@define-color blue3         #75bfff
+@define-color blue4         #69b5f7
+@define-color blue5         #8ac8ff
+@define-color bluel         #b3dbff
+
+@define-color mauve         #a17efc
+@define-color purple2       #b294ff
+@define-color purple3       #c5adff
+@define-color purplel       #e5dbff
+
+@define-color lavender  #b4befe;
+@define-color sapphire  #74c7ec;
+@define-color sky       #89dceb;
+@define-color teal      #94e2d5;
+@define-color green     #a6e3a1;
+@define-color yellow    #f9e2af;
+@define-color peach     #fab387;
+@define-color maroon    #eba0ac;
+@define-color red       #f38ba8;
+@define-color pink      #f5c2e7;
+@define-color flamingo  #f2cdcd;
+@define-color rosewater #f5e0dc;
+
